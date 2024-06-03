@@ -1,0 +1,6 @@
+[environments.main]
+store = "oktobastore.myshopify.com"
+
+[environments.main_dev]
+store = "oktobastore.myshopify.com"
+theme = "141709050108"
